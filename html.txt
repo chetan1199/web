@@ -1,0 +1,62 @@
+<html>
+<head>
+    <titlePride and Prejudice</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            background-color: #f0f0f0;
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .book-review {
+            background-color:#99DCFA;
+            border: 1px solid #ccc;
+            padding: 20px;
+            margin: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        .book-title {
+            font-size: 1.2em;
+            margin-bottom: 10px;
+        }
+
+        .author {
+            font-style: italic;
+            margin-bottom: 5px;
+        }
+
+        .rating {
+            color: #ffb900;
+        }
+
+        .review {
+            margin-top: 15px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1PRIDE AND PREJUDICE</h1>
+
+    <div class="book-review">
+        <h2 class="book-title">Pride and Prejudice</h2>
+        <p class="author">Jane Austen</p>
+        <p class="rating">★★★★★</p>
+        <p class="review">From the day it found its place in print till now, it has been a more appealing novel to teenagers and to all the lovers of literature who loves romance. Pride and Prejudice is a character-driven narrative focuses on Elizabeth Bennet, the protagonist of the novel.
+
+The novel is set in the late 18th century, thus, one could see a lot of possibilities and consideration of marriage. Despite, love and marriage being the prominent themes in the novel, there is no violence or physical attraction in the story at all. Even during Lydia’s elopement, the readers were left to infer their attachment or living as husband and wife, with no hint to their attraction or attachments. Also, Lydia’s marriage with Wickham despite the family knowing his true nature is another constraint of the time Austen lived.
+
+</p>
+    </div>
+
+</body>
+</html>
+
+
